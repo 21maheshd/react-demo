@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "phone": "Iphone",
+      "model": "X",
+      "description": "Build on the card title and make up the bulk of"
+    },
+    {
+      "id": 2,
+      "phone": "Samsung",
+      "model": "Galaxy ",
+      "description": "Build on the card title and make up the bulk of"
+    },
+    {
+      "phone": "Microsoft",
+      "model": "GGGGG",
+      "id": 1532662362905,
+      "description": "jljfldjl",
+      "submitType": ""
+    },
+    {
+      "id": 1532662362906,
+      "phone": "Lenovo",
+      "model": "Moto",
+      "description": "Build on the card title and make up the bulk of"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "email": "dhiraj@gmail.com",
+      "firstName": "Dhiraj",
+      "lastName": "Ray"
+    },
+    {
+      "id": 2,
+      "email": "Tom@gmail.com",
+      "firstName": "Tommy",
+      "lastName": "Highfligher"
+    },
+    {
+      "id": 5,
+      "email": "ff@ff.ff",
+      "firstName": "James",
+      "lastName": "McKinsey"
+    },
+    {
+      "id": 6,
+      "email": "j@j.com",
+      "firstName": "John",
+      "lastName": "Wick"
+    },
+    {
+      "id": 7,
+      "email": "Jacob@j.com",
+      "firstName": "Jacob",
+      "lastName": "Oram"
+    }
+  ]
+}
